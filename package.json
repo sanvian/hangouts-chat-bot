@@ -1,0 +1,22 @@
+{
+  "name": "hangouts-chat-bot",
+  "version": "1.0.0",
+  "description": "Google Hangouts Chat Bot for automating creation of JIRA Ticket and reading through it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanvian/hangouts-chat-bot.git"
+  },
+  "author": "sanjay@sanjayyadav.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanvian/hangouts-chat-bot/issues"
+  },
+  "homepage": "https://github.com/sanvian/hangouts-chat-bot#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
